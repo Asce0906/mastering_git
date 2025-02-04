@@ -1,3 +1,3 @@
 console.log("Hello!");
 console.log("Hello, GitHub!");
-console.log("Trying out revert!");
+console.log("I wanna revert this file!");
